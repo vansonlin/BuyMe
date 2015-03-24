@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vanson/AndroidStudioProjects/buyme_android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/vanson/AndroidStudioProjects/buyme_android/app/build/intermediates/pre-dexed/debug/classes-85ce8a2a308331b8c091849a8a4bdf0c1c85ef7e.jar" />
+    </item>
+    <item
+        jar="/Users/vanson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/vanson/AndroidStudioProjects/buyme_android/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-eaf95eeedc40edbc7f2a21422ced8188379a9ebb.jar" />
+    </item>
+    <item
+        jar="/Users/vanson/AndroidStudioProjects/buyme_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/vanson/AndroidStudioProjects/buyme_android/app/build/intermediates/pre-dexed/debug/classes-6c4cfe277db3d3afd638090a22c33b8c37b2f559.jar" />
+    </item>
+    <item
+        jar="/Users/vanson/AndroidStudioProjects/buyme_android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/vanson/AndroidStudioProjects/buyme_android/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-898eaa422ac1f24f896e5cd7f12871eb528112f1.jar" />
+    </item>
+
+</items>

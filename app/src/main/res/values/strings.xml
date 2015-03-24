@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BuyMe.com</string>
+    <string name="dummy_button">Capture</string>
+    <string name="dummy_content">Buy Me</string>
+
+</resources>
