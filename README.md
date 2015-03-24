@@ -6,6 +6,7 @@ We want to make selling stuff as easily as 3 steps,
 take a photo, write the price and contact, and get an url.
 
 Some relevant links:
+
 Event page: http://www.up.co/communities/usa/seattle/startup-weekend/4759
 
 Video Demo: http://youtu.be/fJQaHg_lcy4
